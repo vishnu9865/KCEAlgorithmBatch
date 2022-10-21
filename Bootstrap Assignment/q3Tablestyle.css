@@ -1,0 +1,32 @@
+body {
+  height: 100%;
+  margin: 0px;
+  background-image: linear-gradient(to bottom right, #d3e1fe, #84d2d4);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.card {
+  width: fit-content;
+  margin-top: 8%;
+  margin-right: auto;
+  margin-left: auto;
+  border-width: 0px;
+  
+}
+
+.table-heading{
+  background-color: #6D7AE0;
+  border-width: 0px;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 00.375rem;
+}
+
+.table {
+  margin-bottom: 0px;
+}
+
+.table-content {
+  max-height: 300px;
+  overflow-y: scroll;
+}

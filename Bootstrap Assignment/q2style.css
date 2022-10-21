@@ -1,0 +1,26 @@
+body {
+  height: 100%;
+  margin: 0px;
+  background-image: linear-gradient(to bottom right, #4C77CF, #46A7A8);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.card {
+  width: max-content;
+  margin: 10% auto auto auto;
+  padding: 2.5rem;
+  background-color: white;
+}
+
+.mybtn {
+  font-size: 12px;
+}
+
+div {
+  width: max-content;  
+}
+
+form {
+  text-align: center;
+}

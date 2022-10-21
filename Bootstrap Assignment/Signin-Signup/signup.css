@@ -1,0 +1,20 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(to bottom right, rgb(41, 169, 255), rgb(253, 240, 255));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main{
+    max-width: 20rem;
+    margin: 15% auto auto auto;
+    border-radius: 4px;
+    padding: 1.5rem 2rem;
+    background-color: white;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    margin: 2px;
+}

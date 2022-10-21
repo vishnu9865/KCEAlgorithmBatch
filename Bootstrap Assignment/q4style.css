@@ -1,0 +1,19 @@
+body {
+  height: 100%;
+  margin: 0px;
+  background-image: linear-gradient(to bottom right, #d3e1fe, #84d2d4);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+th {
+  background-color: white;
+}
+
+.mytable {
+
+}
+
+th .action {
+  text-align: center;
+}

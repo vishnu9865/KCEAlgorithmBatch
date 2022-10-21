@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(to bottom right, rgb(21, 160, 253), rgb(249, 248, 253));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main{
+    max-width: 20rem;
+    margin: 15% auto auto auto;
+    border-radius: 4px;
+    padding: 1.5rem 2rem;
+    background-color: white;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.top-input {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.bottom-input {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+input:focus {
+    z-index: 99;
+}

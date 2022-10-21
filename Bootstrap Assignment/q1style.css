@@ -1,0 +1,24 @@
+.pink {
+  background-color: pink;
+}
+
+.darkpink {
+  background-color: darkorchid;
+}
+
+.blue {
+  background-color: aqua;
+}
+
+.green {
+  background-color: aquamarine;
+}
+
+.brown {
+  background-color: burlywood;
+}
+
+.divblock {
+  height: 90px;
+  border: solid white;
+}
